@@ -43,7 +43,7 @@ public class MainViewController implements Initializable {
 	}
 	
 	@Override
-	public void initialize(URL url, ResourceBundle rs) {		
+	public void initialize(URL url, ResourceBundle rb) {		
 	}
 	
 	private synchronized void loadView(String absoluteName) {
